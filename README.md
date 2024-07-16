@@ -5,6 +5,8 @@
 
 </br>
 
+- 🌱 I’m currently learning **Laravel 11, Vite**
+
 - 👨‍💻 All of my projects are available at [https://josephines1.github.io/](https://josephines1.github.io/)
 
 - 💬 Ask me about **CodeIgniter 4, PHP**
