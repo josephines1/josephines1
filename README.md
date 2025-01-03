@@ -5,7 +5,7 @@
 
 </br>
 
-- 🌱 I’m currently learning **Laravel 11, Vite**
+- 🌱 I’m currently learning **Laravel 11, Vite, React.Js**
 
 - 👨‍💻 All of my projects are available at [https://josephines1.github.io/](https://josephines1.github.io/)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/josephine-santoso-b063a4300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josephine-santoso-b063a4300" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josephine-santoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josephine-santoso" height="30" width="40" /></a>
 <a href="https://medium.com/@josephinedevelopment" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@josephinedevelopment" height="30" width="40" /></a>
 </p>
 
