@@ -5,7 +5,7 @@
 
 </br>
 
-- 🌱 I’m currently learning **Laravel 11, Vite, React.Js**
+- 🌱 I’m currently learning **Golang, React.Js**
 
 - 👨‍💻 All of my projects are available at [https://josephines1.github.io/](https://josephines1.github.io/)
 
@@ -25,8 +25,6 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/josephines24)
 [![KaryaKarsa](https://image.typedream.com/cdn-cgi/image/width=120,format=auto,fit=scale-down,quality=100/https://api.typedream.com/v0/document/public/07480db4-7b4e-4309-9be2-b4e218db150e/2IGRM5CUZESdabtjezsFTWnWFVR_karyakarsa-logo-white.png?bucket=document)](https://karyakarsa.com/josephines24)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephines1&show_icons=true&locale=en&layout=compact" alt="josephines1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephines1&show_icons=true&locale=en" alt="josephines1" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=josephines1" alt="josephines1" /></p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=josephines1&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=josephines1)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josephines1&layout=compact)
